@@ -1,6 +1,6 @@
 # What are we building?
 
-This is a simplified version of Product Hunt. Product Hunt is a website where individuals and companies can launch new products. 
+This is a simplified version of Product Hunt. Product Hunt(https://www.producthunt.com/) is a website where individuals and companies can launch new products. 
 
 Product Hunt users can share information about new products, vote for products they like, and discuss shared products. Our simplified version will contain only these three types of objects:
 
